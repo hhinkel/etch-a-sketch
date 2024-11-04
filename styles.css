@@ -1,0 +1,7 @@
+#cell {
+    border: thick solid black;
+    min-width: 20px;
+    min-height: 20px;
+    display: inline-block;
+    margin-right: 2px;
+}
